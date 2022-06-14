@@ -1,0 +1,36 @@
+{
+  "name": "api_webmarket_nodejs",
+  "version": "1.0.0",
+  "description": "Api made for IUT course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexus9111/api_webmarket_nodejs.git"
+  },
+  "author": "(nexus9111)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexus9111/api_webmarket_nodejs/issues"
+  },
+  "homepage": "https://github.com/nexus9111/api_webmarket_nodejs#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv-safe": "^8.2.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "express-rate-limit": "^6.2.0",
+    "helmet": "^5.0.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.7",
+    "password-validator": "^5.2.1"
+  }
+}
