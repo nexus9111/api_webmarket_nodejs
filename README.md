@@ -6,6 +6,8 @@
 
 🇺🇸 As part of a project in my computer science IUT, I made this api to centralize and store the products. Each workgroup is identified by an owner token which is defined in ``/models/productModel.js`` and ``/utils/misc.js`` (think to modify them).
 
+### I used my personnal NodeJS API boilerplate that you can find <a href="https://github.com/nexus9111/personal_api_boilerplate">here</a>
+
 ## ℹ️ INSTALLATION
 
 ```bash
