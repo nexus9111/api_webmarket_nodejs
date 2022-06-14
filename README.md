@@ -2,9 +2,9 @@
 
 ## ✨ Présentation
 
-🇫🇷 Dans le cadre d'un projet au sein de mon IUT informatique, j'ai réalisé cette api pour centraliser et stocker les produits. Chaque groupe de travail est identifié par un owner token qui est défini dans ```/models/productModel.js``` et ```/utils/misc.js``` (pensez a les modifier).
+🇫🇷 Dans le cadre d'un projet durant ma formation en informatique à l'université Nice  Côte d'Azur, j'ai réalisé cette api pour centraliser et stocker les produits. Chaque groupe de travail est identifié par un owner token qui est défini dans ```/models/productModel.js``` et ```/utils/misc.js``` (pensez a les modifier).
 
-🇺🇸 As part of a project in my computer science IUT, I made this api to centralize and store the products. Each workgroup is identified by an owner token which is defined in ``/models/productModel.js`` and ``/utils/misc.js`` (think to modify them).
+🇺🇸 As part of a project during my computer science degree at the University of Nice Côte d'Azur, I made this api to centralize and store the products. Each workgroup is identified by an owner token which is defined in ``/models/productModel.js`` and ``/utils/misc.js`` (think to modify them).
 
 ### I used my personnal NodeJS API boilerplate that you can find <a href="https://github.com/nexus9111/personal_api_boilerplate">here</a>
 
